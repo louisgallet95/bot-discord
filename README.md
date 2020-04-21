@@ -17,7 +17,7 @@
 ````
 $ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 $ sudo apt install nodejs
-$ git clone [https://github.com/louisgallet95/bot-discord](https://github.com/louisgallet95/bot-discord)
+$ git clone https://github.com/louisgallet95/bot-discord
 $ cd bot-discord
 $ npm install
 $ node index.js

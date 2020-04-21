@@ -1,5 +1,7 @@
 # Simple Discord Bot
 
+## Badges
+
 ### Prerequisites
 
  - Discord Developer Account

@@ -1,0 +1,7 @@
+{
+  "name": "Simple Discord Bot",
+  "description": "A simple Discord Bot",
+  "repository": "https://github.com/louisgallet95/bot-discord",
+  "logo": "https://yorkaargh.files.wordpress.com/2016/09/discordjslogo.png?w=670",
+  "keywords": ["node", "discord", "bot", "simple"]
+}

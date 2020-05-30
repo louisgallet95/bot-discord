@@ -1,7 +1,8 @@
 # Simple Discord Bot
 
 ## Badges
-[![Build Status](https://travis-ci.com/louisgallet95/bot-discord.svg?token=dnbXo3fzqj6vuU23jeK7&branch=master)](https://travis-ci.com/louisgallet95/bot-discord)
+[![Build Status](https://travis-ci.com/louisgallet95/bot-discord.svg?token=dnbXo3fzqj6vuU23jeK7&branch=master)](https://travis-ci.com/louisgallet95/bot-discord)  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Prerequisites
 
